@@ -1,3 +1,18 @@
+UPDATE 
+----- 
+
+When trying to deploy this code via github pages, it searches for 2 things, an index.html file and a README.md file. 
+during the creation of this code, i didn't use index.html and i have since changed computers.
+
+with this in mind, i would recommend running this off of a local host machine using visual code studio 
+
+The demonstration video should show you what the layout and code should look like
+
+I will have a look at trying to rectify this mistake 
+
+------
+
+
 # CTEC3905 ASSIGNMENT - Dylan Wilson
 
 Welcome to my repository. In this repository, I have created a porfolio website to market myself towards future employers. The website showcases who i am, my cv, the modules I have learnt over my degree and a form to contact me (more on that later). 
